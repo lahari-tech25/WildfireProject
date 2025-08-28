@@ -8,7 +8,7 @@ It provides an interactive **login system**, an **image upload option**, and a *
 ## ✨ Features
 - 🔑 **Login System** (default credentials: `Admin` / `Admin`)  
 - 📂 **Upload Images** (`.jpg`, `.png`, `.jpeg`) for prediction  
-- 🤖 **Deep Learning Model** predicts wildfire probability  
+- 🤖 **Deep Learning Model** predicts wildfire probability 
 - 🌍 **Class Activation Map (CAM)** highlights wildfire-prone areas in the image  
 - 🚪 **Logout option** to return to login screen  
 
