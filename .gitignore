@@ -4,6 +4,9 @@ logs/
 model_plots/
 predictions/
 
+# Ignore unused/extra models
+saved_model/cam_model/
+saved_model/*.h5
 
 # Python cache
 __pycache__/
